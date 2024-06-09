@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Dominic 👋
+I'm a data analyst currently working out of Burlington, VT. 
+
+I started as a biomedical engineering, before trying out finance, chemical engineering, and molecular biology, and realizing that my common interest across every field was using data to answer questions. I'm passionate about advancing medical research, improving healthcare, and solving difficult problems in the pursuit of new knowledge. 
+
+In my free time I work on miscellaneous projects, some of which are listed below. All of these projects start with a simple question.
+
 
 <!--
 **thestroh/thestroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
